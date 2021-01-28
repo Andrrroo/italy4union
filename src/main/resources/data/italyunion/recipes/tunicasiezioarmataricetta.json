@@ -1,0 +1,22 @@
+{
+  "group": "italyunion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "italyunion:hiddenblade"
+    },
+    "1": {
+      "item": "italyunion:tunica_di_ezio_armor_chestplate"
+    },
+    "2": {
+      "item": "italyunion:hiddenblade"
+    }
+  },
+  "result": {
+    "item": "italyunion:tunica_di_ezioarmata_chestplate",
+    "count": 1
+  }
+}

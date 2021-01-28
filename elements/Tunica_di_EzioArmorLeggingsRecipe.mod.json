@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "suits",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": "CUSTOM:Fabric"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Fabric"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Tunica_di_EzioArmor.legs"
+    },
+    "name": "tunica_di_ezio_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

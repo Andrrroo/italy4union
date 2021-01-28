@@ -1,0 +1,39 @@
+{
+  "group": "suits",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "italyunion:fabric"
+    },
+    "1": {
+      "item": "italyunion:fabric"
+    },
+    "2": {
+      "item": "italyunion:fabric"
+    },
+    "3": {
+      "item": "italyunion:fabric"
+    },
+    "4": {
+      "item": "minecraft:leather"
+    },
+    "5": {
+      "item": "italyunion:fabric"
+    },
+    "6": {
+      "item": "italyunion:fabric"
+    },
+    "8": {
+      "item": "italyunion:fabric"
+    }
+  },
+  "result": {
+    "item": "italyunion:tunica_di_ezio_armor_leggings",
+    "count": 1
+  }
+}

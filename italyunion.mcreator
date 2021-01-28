@@ -1,0 +1,187 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Tunica_di_EzioArmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunica_di_ezio_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Tunica_di_EzioArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunica_di_ezio_armor_helmet_recipe"
+    },
+    {
+      "name": "Tunica_di_EzioArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunica_di_ezio_armor_body_recipe"
+    },
+    {
+      "name": "Tunica_di_EzioArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunica_di_ezio_armor_leggings_recipe"
+    },
+    {
+      "name": "Tunica_di_EzioArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunica_di_ezio_armor_boots_recipe"
+    },
+    {
+      "name": "Fabric",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fabric"
+    },
+    {
+      "name": "Spring",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spring"
+    },
+    {
+      "name": "Hiddenblade",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiddenblade"
+    },
+    {
+      "name": "Hiddenbladerecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hiddenbladerecipe"
+    },
+    {
+      "name": "TunicaDiEzioarmata",
+      "type": "armor",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunica_di_ezioarmata",
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "Tunicasiezioarmataricetta",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tunicasiezioarmataricetta"
+    },
+    {
+      "name": "Fabricrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fabricrecipe"
+    },
+    {
+      "name": "Springrecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "springrecipe"
+    },
+    {
+      "name": "Ironstring",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironstring"
+    },
+    {
+      "name": "Ironstringrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironstringrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.italyunion.ironstring": "Ironstring",
+      "item.italyunion.tunica_di_ezio_armor_helmet": "Ezio\u0027s Hood",
+      "item.italyunion.tunica_di_ezio_armor_leggings": "Ezio\u0027s Leggins",
+      "item.italyunion.tunica_di_ezioarmata_helmet": "Tunica Di Ezioarmata Helmet",
+      "item.italyunion.tunica_di_ezio_armor_boots": "Ezio\u0027s Boots",
+      "item.italyunion.tunica_di_ezioarmata_chestplate": "Tunica Di Ezioarmata Body",
+      "item.italyunion.hiddenblade": "Hiddenblade",
+      "item.italyunion.tunica_di_ezio_armor_chestplate": "Ezio\u0027s Tunic",
+      "item.italyunion.fabric": "White Fabric",
+      "item.italyunion.tunica_di_ezioarmata_boots": "Tunica Di Ezioarmata Boots",
+      "item.italyunion.spring": "Spring",
+      "item.italyunion.tunica_di_ezioarmata_leggings": "Tunica Di Ezioarmata Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "italyunion",
+    "modName": "italy4union",
+    "version": "1.0.0",
+    "author": "Andrea, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.italyunion",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

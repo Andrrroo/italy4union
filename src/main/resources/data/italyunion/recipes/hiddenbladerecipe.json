@@ -1,0 +1,36 @@
+{
+  "group": "italyunion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_sword"
+    },
+    "3": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "italyunion:spring"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "italyunion:spring"
+    },
+    "7": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "italyunion:hiddenblade",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "italyunion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "tag": "axe"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "italyunion:ironstring",
+    "count": 1
+  }
+}
