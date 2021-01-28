@@ -6,41 +6,41 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "suits",
+    "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:RedFabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
         "value": "Items.LEATHER_CHESTPLATE"
       },
       {
+        "value": "CUSTOM:BlackFabric"
+      },
+      {
+        "value": "CUSTOM:Yellowfabric"
+      },
+      {
         "value": "CUSTOM:RedFabric"
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:Yellowfabric"
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
-        "value": "CUSTOM:Fabric"
-      },
-      {
-        "value": "CUSTOM:Fabric"
-      },
-      {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Tunica_di_EzioArmor.body"
+      "value": "CUSTOM:AguilarTunic.body"
     },
-    "name": "tunica_di_ezio_armor_body_recipe",
+    "name": "aguilar_tunic_recipe",
     "namespace": "mod"
   }
 }

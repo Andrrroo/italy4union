@@ -1,0 +1,53 @@
+{
+  "_fv": 13,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "aguilar_hood",
+    "enableBody": true,
+    "textureBody": "aguilar_tunic",
+    "enableLeggings": true,
+    "textureLeggings": "aguilar_leggins",
+    "enableBoots": true,
+    "textureBoots": "agiular_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "aguilar_",
+    "helmetName": "Aguilar's Hood",
+    "bodyName": "Aguilar's Tunic",
+    "leggingsName": "Aguilar's Leggins",
+    "bootsName": "Aguilar's Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 100,
+    "damageValueHelmet": 12,
+    "damageValueBody": 28,
+    "damageValueLeggings": 26,
+    "damageValueBoots": 12,
+    "enchantability": 40,
+    "toughness": 2.5,
+    "equipSound": {
+      "value": "item.armor.equip_generic"
+    },
+    "repairItems": []
+  }
+}

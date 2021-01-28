@@ -6,41 +6,41 @@
     "xpReward": 0.0,
     "cookingTime": 200,
     "recipeRetstackSize": 1,
-    "group": "suits",
+    "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:Yellowfabric"
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
-        "value": "Items.LEATHER_LEGGINGS"
+        "value": "Items.LEATHER_HELMET"
       },
       {
-        "value": "CUSTOM:Fabric"
-      },
-      {
-        "value": "CUSTOM:Fabric"
+        "value": "CUSTOM:BlackFabric"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Fabric"
+        "value": ""
+      },
+      {
+        "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Tunica_di_EzioArmor.legs"
+      "value": "CUSTOM:AguilarTunic.helmet"
     },
-    "name": "tunica_di_ezio_armor_leggings_recipe",
+    "name": "aguilar_hoodrecipe",
     "namespace": "mod"
   }
 }

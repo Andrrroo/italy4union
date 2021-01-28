@@ -1,0 +1,32 @@
+{
+  "group": "italyunion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "italyunion:black_fabric"
+    },
+    "1": {
+      "item": "italyunion:yellowfabric"
+    },
+    "2": {
+      "item": "italyunion:black_fabric"
+    },
+    "3": {
+      "item": "italyunion:black_fabric"
+    },
+    "4": {
+      "item": "minecraft:leather_helmet"
+    },
+    "5": {
+      "item": "italyunion:black_fabric"
+    }
+  },
+  "result": {
+    "item": "italyunion:aguilar_tunic_helmet",
+    "count": 1
+  }
+}

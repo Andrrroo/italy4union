@@ -1,0 +1,42 @@
+{
+  "group": "italyunion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "italyunion:black_fabric"
+    },
+    "1": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "2": {
+      "item": "italyunion:black_fabric"
+    },
+    "3": {
+      "item": "italyunion:yellowfabric"
+    },
+    "4": {
+      "item": "italyunion:red_fabric"
+    },
+    "5": {
+      "item": "italyunion:yellowfabric"
+    },
+    "6": {
+      "item": "italyunion:black_fabric"
+    },
+    "7": {
+      "item": "italyunion:black_fabric"
+    },
+    "8": {
+      "item": "italyunion:black_fabric"
+    }
+  },
+  "result": {
+    "item": "italyunion:aguilar_tunic_chestplate",
+    "count": 1
+  }
+}

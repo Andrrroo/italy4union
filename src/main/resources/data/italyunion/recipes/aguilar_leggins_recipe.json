@@ -1,0 +1,39 @@
+{
+  "group": "italyunion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "italyunion:black_fabric"
+    },
+    "1": {
+      "item": "italyunion:black_fabric"
+    },
+    "2": {
+      "item": "italyunion:black_fabric"
+    },
+    "3": {
+      "item": "italyunion:black_fabric"
+    },
+    "4": {
+      "item": "minecraft:leather_leggings"
+    },
+    "5": {
+      "item": "italyunion:black_fabric"
+    },
+    "6": {
+      "item": "italyunion:black_fabric"
+    },
+    "8": {
+      "item": "italyunion:black_fabric"
+    }
+  },
+  "result": {
+    "item": "italyunion:aguilar_tunic_leggings",
+    "count": 1
+  }
+}
