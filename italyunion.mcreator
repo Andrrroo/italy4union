@@ -147,6 +147,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ironstringrecipe"
+    },
+    {
+      "name": "BlackFabric",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_fabric"
+    },
+    {
+      "name": "Blackfabricrecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blackfabricrecipe"
     }
   ],
   "variable_elements": [],
@@ -158,7 +176,8 @@
       "item.italyunion.tunica_di_ezio_armor_leggings": "Ezio\u0027s Leggins",
       "item.italyunion.tunica_di_ezioarmata_helmet": "Tunica Di Ezioarmata Helmet",
       "item.italyunion.tunica_di_ezio_armor_boots": "Ezio\u0027s Boots",
-      "item.italyunion.tunica_di_ezioarmata_chestplate": "Tunica Di Ezioarmata Body",
+      "item.italyunion.tunica_di_ezioarmata_chestplate": "Armed Ezio\u0027s Tunic",
+      "item.italyunion.black_fabric": "Black Fabric",
       "item.italyunion.hiddenblade": "Hiddenblade",
       "item.italyunion.tunica_di_ezio_armor_chestplate": "Ezio\u0027s Tunic",
       "item.italyunion.fabric": "White Fabric",
